@@ -1,0 +1,32 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "Open Sans"
+}
+
+html,body{
+	height: 100%;
+}
+
+.clear{
+	clear: both;
+}
+
+.container{
+	text-align: center;
+}
+
+button{
+	background-color: blue ;
+	color: white;
+	font-size: 32px;
+	padding: 8px 20px;
+	cursor: pointer;
+	border: none;
+	margin-top: 20px;
+}
+
+h2{
+	padding: 20px;
+}
